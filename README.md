@@ -41,3 +41,20 @@ Unfortunately, Stark is not able to check text against multicolored backgrounds 
 
 ## Design System
 ![Design System](design-system.png)
+
+## Interactive Prototype
+view the prototype on [Figma](https://www.figma.com/proto/1u7553IPa6LgAZey8nxkDp/DH110-Prototype?node-id=6%3A891&scaling=min-zoom&page-id=0%3A1).
+
+#### Task A: Write a Story
+- Select a prompt
+- Write the story
+- Share the story
+- Return Home
+
+#### Task B: Share a Story
+- See previously written stories
+- Share the story
+- Return Home
+
+## Wireflow
+![wireflow](https://user-images.githubusercontent.com/82081636/118596689-8faaa200-b760-11eb-8ad5-7edc931db6b3.png)
