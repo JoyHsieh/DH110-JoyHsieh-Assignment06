@@ -74,4 +74,4 @@ Overall, my group thought my prototype had a clean and cute interface and was si
 - Add a "Home" button to the "Success" page
 
 ## Reflection
-I really enjoyed prototyping! It was very difficult at first, but when it started coming together and looking nice it was really exciting. I wish I had been able to complete the accessibility test more thoroughly. The impression test and cognitive walkthrough were really helpful and I recieved a lot of constructive feedback.
+I really enjoyed prototyping! It was very difficult at first, but when it started coming together and looking nice it was really exciting. I started by trying to get a logo and design system down to make the rest of the process go more smoothly. It was hard to come up with these and figure out exactly what I want. I wish I had been able to complete the accessibility test more thoroughly. The impression test and cognitive walkthrough were really helpful and I recieved a lot of constructive feedback. Based on these tests, I made changes to the sharing function and will make future changes based off of the list in the "Summary of Findings" list above.
