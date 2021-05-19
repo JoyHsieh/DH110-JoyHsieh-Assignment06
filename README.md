@@ -59,6 +59,7 @@ view the prototype on [Figma](https://www.figma.com/proto/1u7553IPa6LgAZey8nxkDp
 
 ## Wireflow
 ![wireflow](https://user-images.githubusercontent.com/82081636/118596689-8faaa200-b760-11eb-8ad5-7edc931db6b3.png)
+This wireflow includes updates to the "Share Your Story" page and has an added "Success" page to confirm that the story has been shared.
 
 ## Cognitive Walkthrough
 My group forgot to record, but below are some screenshots from our chat with comments on my prototype.
@@ -73,4 +74,4 @@ Overall, my group thought my prototype had a clean and cute interface and was si
 - Add a "Home" button to the "Success" page
 
 ## Reflection
-I really enjoyed prototyping! It was very difficult at first, but when it started coming together and looking nice it was really exciting. The cognitive walkthrough was really helpful and my group had a lot of constructive feedback.
+I really enjoyed prototyping! It was very difficult at first, but when it started coming together and looking nice it was really exciting. I wish I had been able to complete the accessibility test more thoroughly. The impression test and cognitive walkthrough were really helpful and I recieved a lot of constructive feedback.
