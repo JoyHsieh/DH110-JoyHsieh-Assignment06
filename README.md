@@ -46,13 +46,13 @@ Unfortunately, Stark is not able to check text against multicolored backgrounds 
 ## Interactive Prototype
 view the prototype on [Figma](https://www.figma.com/proto/1u7553IPa6LgAZey8nxkDp/DH110-Prototype?node-id=6%3A891&scaling=min-zoom&page-id=0%3A1).
 
-#### Task A: Write a Story
+#### Task A: Write a New Story
 - Select a prompt
 - Write the story
 - Share the story
 - Return Home
 
-#### Task B: Share a Story
+#### Task B: Share an Old Story
 - See previously written stories
 - Share the story
 - Return Home
@@ -61,6 +61,16 @@ view the prototype on [Figma](https://www.figma.com/proto/1u7553IPa6LgAZey8nxkDp
 ![wireflow](https://user-images.githubusercontent.com/82081636/118596689-8faaa200-b760-11eb-8ad5-7edc931db6b3.png)
 
 ## Cognitive Walkthrough
+My group forgot to record, but below are some screenshots from our chat with comments on my prototype.
+<img width="479" alt="cogwalk-1" src="https://user-images.githubusercontent.com/82081636/118898043-89333c00-b8c0-11eb-9768-af41c0a088f3.png">
+<img width="477" alt="cogwalk-2" src="https://user-images.githubusercontent.com/82081636/118898040-859fb500-b8c0-11eb-869b-9ae807edf747.png">
+
+#### Summary of Findings
+Overall, my group thought my prototype had a clean and cute interface and was simple and easy to navigate. They made the following suggestions:
+- Change the side bar nome navigation to a smaller logo or top banner to make it more intuitive as a "Home" button
+- Add a "View My Stories" button to the "Write My Story" page
+- Add a "Save" button or system status message (ex: "Your story was automatically saved x seconds ago") to the "Write My Story" page
+- Add a "Home" button to the "Success" page
 
 ## Reflection
-
+I really enjoyed prototyping! It was very difficult at first, but when it started coming together and looking nice it was really exciting. The cognitive walkthrough was really helpful and my group had a lot of constructive feedback.
